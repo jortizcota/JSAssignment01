@@ -1,0 +1,1 @@
+console.log("This is a demonstration of using a External JavaScript Program");
